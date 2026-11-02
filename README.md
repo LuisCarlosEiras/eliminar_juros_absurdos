@@ -117,8 +117,6 @@ O modelo recebe apenas os números calculados pelo app, e a análise gerada por 
 
 ## Parâmetros
 
-![Eu_acuso_img](Eu_acuso_img.png)
-
 Na barra lateral, os parâmetros são divididos em dois grupos:
 
 - 🟦 **Do artigo:** dívida bruta (R$ 10,9 tri; 82,5% do PIB), dívida líquida (R$ 9,2 tri),
@@ -130,6 +128,8 @@ Na barra lateral, os parâmetros são divididos em dois grupos:
   velocidade de ajuste da inflação, canal cambial (sensibilidade, neutralização pelo BC,
   repasse) e estoque de carry-trade. **Ajuste esses valores antes de tirar conclusões.**
   O mais sensível é a Selic atual.
+
+![Eu_acuso_img](Eu_acuso_img.png)
 
 ## Limitações
 
