@@ -129,6 +129,8 @@ Na barra lateral, os parâmetros são divididos em dois grupos:
   repasse) e estoque de carry-trade. **Ajuste esses valores antes de tirar conclusões.**
   O mais sensível é a Selic atual.
 
+## A página
+
 ![Eu_acuso_img](Eu_acuso_img.png)
 
 ## Limitações
