@@ -1,5 +1,7 @@
 # Simulador do artigo **"Eu Acuso: uma proposta para eliminar os juros absurdos"**, de André Lara Resende
 
+![eu_acuso_png](eu_acuso_png.png)
+
 Aplicativo [Streamlit](https://streamlit.io) que executa as variáveis do artigo
 **"Eu Acuso: uma proposta para eliminar os juros absurdos"**, de André Lara Resende
 (Substack *Um Cético Esperançoso*, 25/09/2026):
