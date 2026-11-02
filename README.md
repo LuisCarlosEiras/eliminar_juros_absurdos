@@ -117,7 +117,7 @@ O modelo recebe apenas os números calculados pelo app, e a análise gerada por 
 
 ## Parâmetros
 
-![eu_acuso_img](eu_acuso_img.png)
+![Eu_acuso_img](Eu_acuso_img.png)
 
 Na barra lateral, os parâmetros são divididos em dois grupos:
 
