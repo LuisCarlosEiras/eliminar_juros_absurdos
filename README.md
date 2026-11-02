@@ -1,4 +1,4 @@
-# Eu Acuso — Simulador de juros, dívida e inflação
+# Simulador do artigo **"Eu Acuso: uma proposta para eliminar os juros absurdos"**, de André Lara Resende
 
 Aplicativo [Streamlit](https://streamlit.io) que executa as variáveis do artigo
 **"Eu Acuso: uma proposta para eliminar os juros absurdos"**, de André Lara Resende
